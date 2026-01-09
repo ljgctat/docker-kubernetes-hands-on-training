@@ -18,4 +18,4 @@ This repository contains a full hands-on training covering:
 
 Follow the folders in numerical order.
 
-## by Havi
+## by Havi@EJ
